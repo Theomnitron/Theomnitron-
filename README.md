@@ -15,6 +15,12 @@ Passionate and experienced Fronend Developer, with a strng technical skill set a
 #### Projects
 [Recipe.com](https://theomnitron.github.io/Recipe.com)
 
+[Recipe-v2.0.com](https://theomnitron.github.io/Recipe-v2.0.com)
+
+[Mario-club.com](https://theomnitron.github.io/Mario-club.com)
+
+
 #### Contact Me
 [GitHub](github.com/Theomnitron)
+
 [WhatsApp](https://wa.me/+2348081382852)
